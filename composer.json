@@ -1,0 +1,37 @@
+{
+    "name": "magenxcommerce/security-package",
+    "description": "Magento Security Package",
+    "keywords": [],
+    "homepage": "",
+    "version": "1.0.0",
+    "version_normalized": "1.0.0.0",
+    "license": [],
+    "authors": [],
+    "type": "metapackage",
+    "require": {
+        "magenxcommerce/module-re-captcha-admin-ui": "1.0.0",
+        "magenxcommerce/module-re-captcha-checkout": "1.0.0",
+        "magenxcommerce/module-re-captcha-contact": "1.0.0",
+        "magenxcommerce/module-re-captcha-customer": "1.0.0",
+        "magenxcommerce/module-re-captcha-frontend-ui": "1.0.0",
+        "magenxcommerce/module-re-captcha-migration": "1.0.0",
+        "magenxcommerce/module-re-captcha-newsletter": "1.0.0",
+        "magenxcommerce/module-re-captcha-paypal": "1.0.0",
+        "magenxcommerce/module-re-captcha-review": "1.0.0",
+        "magenxcommerce/module-re-captcha-send-friend": "1.0.0",
+        "magenxcommerce/module-re-captcha-ui": "1.0.0",
+        "magenxcommerce/module-re-captcha-user": "1.0.0",
+        "magenxcommerce/module-re-captcha-validation": "1.0.0",
+        "magenxcommerce/module-re-captcha-validation-api": "1.0.0",
+        "magenxcommerce/module-re-captcha-version-2-checkbox": "1.0.0",
+        "magenxcommerce/module-re-captcha-version-2-invisible": "1.0.0",
+        "magenxcommerce/module-re-captcha-version-3-invisible": "1.0.0",
+        "magenxcommerce/module-securitytxt": "1.0.0",
+        "magenxcommerce/module-two-factor-auth": "1.0.0"
+    },
+    "uid": "bd2596149b1a9207d7b1b05a1b2ecf6d",
+    "replace": {
+        "magento/security-package": "*"
+    },
+    "suggest": {}
+}
